@@ -1,0 +1,20 @@
+* {
+    background-color: bisque;
+    margin: 0 auto;
+    font-family: 'Bona Nova', serif;
+    }
+
+.container-mae {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    width: 50%;
+    justify-content: space-around;
+}
+
+.filha {
+    width: 30%;
+    line-height: 25px;
+    text-align: center;
+    padding: 25%;
+}
